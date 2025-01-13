@@ -2,7 +2,8 @@
 
 body { 
     margin: 0;
-    background-image: url(nature-3082832_1280.jpg);
+    /* background-image: url(nature-3082832_1280.jpg); */
+    background-color: #333333;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
